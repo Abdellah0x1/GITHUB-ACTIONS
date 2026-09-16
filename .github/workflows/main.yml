@@ -12,7 +12,7 @@ jobs:
       - name: Print a welcome messafe
         run: echo "Welcome to github actions"
       - name: Checkout repository
-        uses: actions/checkout@v7.
+        uses: actions/checkout@v7.0.1
 
       - name: list repository files
         run: ls -la
