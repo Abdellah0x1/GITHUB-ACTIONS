@@ -1,0 +1,20 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Abdellah0x1/GITHUB-ACTIONS#readme",
+  "bugs": {
+    "url": "https://github.com/Abdellah0x1/GITHUB-ACTIONS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdellah0x1/GITHUB-ACTIONS.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "bash src/test.sh"
+  }
+}
